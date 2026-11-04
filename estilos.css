@@ -1,0 +1,22 @@
+body  {
+	background-color: gray;
+	 }
+h1  {
+	color: blue;
+	font-family: arial;
+	}
+h2  {
+	color: blue;
+	font-family: arial;
+	}
+.destaque  {
+	color: lime;
+	margin-left: 50px;
+	}
+.lista1  {
+	color: lime;
+	}
+/* comentários */
+/* 1. interpretar as margens (margin-left) e descobrir como as manipular */
+/* 2. Não houve grandes erros no desenvolvimento do código, contanto, a formatação do estilo  CSS trouxe um desafio relacionado as chavetas. */
+/* 3. O atributo href="" permite uma hiperligação para uma página externa com apenas um clique, esta página pode varias de sites para links, a videos ou imagens a qual não se encontram no separador.*/
